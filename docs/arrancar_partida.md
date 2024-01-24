@@ -4,7 +4,7 @@ Para arrancar una partida usamos FASTER.
 
 ## FASTER.
 
-Faster es un programa para arrancar servidores de ARMA 3 con una configuración sencilla además de aportar virtualización cuando se arranca el server. Esta documentación no tiene como objetivo conocer todas las posibidades de FASTER. Para ello referenciar el manual del servidor dedicado de [Arma 3](https://community.bistudio.com/wiki/Arma_3:_Dedicated_Server).
+Faster es un programa para arrancar servidores de ARMA 3 con una configuración sencilla además de aportar virtualización cuando se arranca el server. Esta documentación no tiene como objetivo conocer todas las posibilidades de FASTER. Para ello referenciar el manual del servidor dedicado de [Arma 3](https://community.bistudio.com/wiki/Arma_3:_Dedicated_Server).
 
 La primera vez que arrancamos FASTER nos aparecerá esta ventana. De aquí lo único que nos interesa es el cuadro de PERFILES.
 
@@ -20,7 +20,7 @@ La primera vez que arrancamos FASTER nos aparecerá esta ventana. De aquí lo ú
 Por ejemplo, vamos a levantar una misión, PREDATEL, queremos testearla. Para ello nos vamos al perfil de Testeo. De aquí nos interesan tres partes, que haremos en orden.
 
 1. Primero haremos click derecho en Server y le daremos a SELECT NONE, haremos lo mismo con client y headless, esto es para borrar todos los mods anteriores.
-2. Iremos a DLCs y comprobaremos que no hay ninguno marcado, para una partida de Vietnam seleccionariamos Prairie Fire.
+2. Iremos a DLCs y comprobaremos que no hay ninguno marcado, para una partida de Vietnam seleccionaríamos Prairie Fire.
 3. Le damos a Load from file, y elegimos el fichero .HTML de la misión, los editores deben proporcionarnos un archivo .HTML, tampoco está de más (por experiencia) chequear los mods que cargan. En el ejemplo el archivo HTML de PREDATEL.
 4. Nos aparecerán los mods en client, damos CLICK DERECHO a HEADLESS y **COPY FROM CLIENT**.
 
