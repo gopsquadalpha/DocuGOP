@@ -74,7 +74,7 @@ Hay que seguir los pasos descritos en la sección de Workshop pero obviando !Wor
 
 ## Peculiaridades de ACE y otros mods
 
-ACE y algunos mods se dividen en @ACE y @ace_complementos. La carpeta @ACE dentro de ella cuenta con la carpeta *optionals*. En ella nos interesan los siguientes mods opcionales.
+ACE y algunos mods se pueden dividir en submods. Por ejemplo en @ACE y @ace_complementos. La carpeta @ACE dentro de ella cuenta con la carpeta *optionals*. En ella nos interesan los siguientes mods opcionales.
 
 * @ace_nocrosshair
 * @ace_nouniformrestrictions
