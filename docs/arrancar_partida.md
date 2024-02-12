@@ -2,7 +2,7 @@
 
 Para arrancar una partida usamos FASTER.
 
-## FASTER.
+## FASTER
 
 Faster es un programa para arrancar servidores de ARMA 3 con una configuración sencilla además de aportar virtualización cuando se arranca el server. Esta documentación no tiene como objetivo conocer todas las posibilidades de FASTER. Para ello referenciar el manual del servidor dedicado de [Arma 3](https://community.bistudio.com/wiki/Arma_3:_Dedicated_Server).
 
