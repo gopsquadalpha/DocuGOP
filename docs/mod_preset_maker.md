@@ -4,7 +4,7 @@
   ![Mod Preset Maker](assets/mod_preset_maker.png)
 </figure>
 
-Esta herramienta sirve para crear presets de mods que usa el FASTER para lanzar partidas con esos mods.
+Esta herramienta sirve para crear presets de mods que usa el FASTER para lanzar partidas con esos mods. Es responsabilidad del editor que se genere por primera vez, en caso de que se actualize la partida y el editor esté activo, lo modifique.
 
 Puedes usarla para crear una preset desde cero, o para modificar una preset existente.
 
