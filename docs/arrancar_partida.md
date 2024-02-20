@@ -4,11 +4,11 @@ Para arrancar una partida usamos FASTER.
 
 ## FASTER
 
-Faster es un programa para arrancar servidores de ARMA 3 con una configuración sencilla además de aportar virtualización cuando se arranca el server. Esta documentación no tiene como objetivo conocer todas las posibilidades de FASTER. Para ello referenciar el manual del servidor dedicado de [Arma 3](https://community.bistudio.com/wiki/Arma_3:_Dedicated_Server).
+Faster es un programa para arrancar servidores de ARMA 3 con una configuración sencilla además de aportar virtualización (crear instancias aparte) cuando se arranca el server. Esta documentación no tiene como objetivo conocer todas las posibilidades de FASTER. Para ello referenciar el manual del servidor dedicado de [Arma 3](https://community.bistudio.com/wiki/Arma_3:_Dedicated_Server).
 
 La primera vez que arrancamos FASTER nos aparecerá esta ventana. De aquí lo único que nos interesa es el cuadro de PERFILES.
 
-1. Operators Bozoum / similares: Perfiles para partidas que se juegan constantemente.
+1. Operators Bozoum / similares: Perfiles para partidas que se juegan con persistencia, debido a las instancia que se tiene que tener aparte.
 2. Testeo: Su propio nombre lo indica, un perfil para el testeo de misiones.
 3. DEFAULT NO OCAP: El que usaremos para partidas oficiales sin OCAP.
 4. DEFAULT: Lo mismo que el anterior pero con OCAP.
