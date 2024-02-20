@@ -14,7 +14,7 @@ Tratar de ser comprensivos dependiendo del número de personas en partida, quita
 
     El admin debe llevarlo un miembro de GOP, si el editor necesita zeus, darle zeus con nuestro propio zeus.
 
-En caso de que haya OCAP. ASEGURARSE de tirar la partida con los scripts encontrados en [arrancar partida](arrancar_partida.md)
+En caso de que haya OCAP. ASEGURARSE de tirar la partida con los scripts encontrados en [terminar una partida](terminar_partida.md)
 
 ## Martes
 
