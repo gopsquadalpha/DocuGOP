@@ -14,6 +14,8 @@ Tratar de ser comprensivos dependiendo del número de personas en partida, quita
 
     El admin debe llevarlo un miembro de GOP, si el editor necesita zeus, darle zeus con nuestro propio zeus.
 
+En caso de que haya OCAP. ASEGURARSE de tirar la partida con los scripts encontrados en [arrancar partida](arrancar_partida.md)
+
 ## Martes
 
 Los martes se acaba a las 22:30, notificar a HQ a las 22:00 para que vaya plánteandose que a las 22:10 si no hay motivo de peso se vaya a debrief y no alarguemos el operativo.
