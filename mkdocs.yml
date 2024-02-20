@@ -44,6 +44,18 @@ theme:
 extra:
   generator: false
 
+nav:
+ - index.md
+ - arrancar_partida.md
+ - terminar_partida.md
+ - reglas.md
+ - actualizar_mod.md
+ - modificar_pbo.md
+ - workshop.md
+ - servicios.md
+ - mod_preset_maker.md
+
+
 markdown_extensions:
   - attr_list
   - md_in_html
