@@ -8,11 +8,9 @@ Las misiones tratarán usar el mínimo tamaño posible. Por ejemplo, una misión
 
 ## Respecto al uso de admin / zeus
 
-Tratar de ser comprensivos dependiendo del número de personas en partida, quitar alguna IA, curar por bug, incluso resucitar (a falta que se comente lo contrario, esto es WIP) los martes si se muere nada más empezar la partida.
+Tratar de ser comprensivos dependiendo del número de personas en partida, quitar alguna IA, curar por bug, incluso resucitar (a falta que se comente lo contrario, esto es WIP) los martes si se muere nada más empezar la partida (seguir por ejemplo el baremo de primer combate, si se muere en el primer combate pues resucitarlos, que venimos a jugar y disfrutar al final).
 
-!!! warning "¡PELIGRO!"
-
-    El admin debe llevarlo un miembro de GOP, si el editor necesita zeus, darle zeus con nuestro propio zeus.
+WIP: Tener en cuenta que el admin al editor le beneficia para arrancar scripts y cosillas que al final mejoran la fluidez de la partida, que es el **OBJETIVO**. 
 
 En caso de que haya OCAP. ASEGURARSE de tirar la partida con los scripts encontrados en [terminar una partida](terminar_partida.md).
 
