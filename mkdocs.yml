@@ -54,6 +54,7 @@ nav:
  - workshop.md
  - servicios.md
  - mod_preset_maker.md
+ - persistencia_faster.md
 
 
 markdown_extensions:
