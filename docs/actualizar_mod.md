@@ -98,5 +98,5 @@ Cuando tenemos el mod en D:\mods hace falta decirle al FASTER que existe, para e
 ![Faster local mod add](assets/faster_local_mods_add.png)
 </figure>
 
-Cuando lo tengamos añadido debemos ir a Deployment y deploy all.
+Cuando lo tengamos añadido debemos ir a Deployment y deploy all o lo que se necesite.
 
