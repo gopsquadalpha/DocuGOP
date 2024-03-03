@@ -4,7 +4,7 @@
 
     Hacer un backup en caso de actualizar, y que sea descriptivo por favor. En mi caso suelo poner una carpeta en el escritorio llamada Backup día-mes-año NombreMods
 
-Una tarea común de GOP es actualizar algún mod.
+Una tarea común de GOP es actualizar/instalar algún mod.
 
 ## Desde workshop
 
@@ -89,3 +89,14 @@ Nos metemos en la carpeta addons de cada uno de ellos paso por paso y los copiam
     Debemos borrar las versiones anteriores.
 
 Pasamos build al repo y actualizamos como se ha descrito en las anteriores secciones.
+
+## Pasarlo al FASTER
+
+Cuando tenemos el mod en D:\mods hace falta decirle al FASTER que existe, para ello nos vamos al faster y a la categoría mods y añadimos un mod local.
+
+<figure markdown>
+![Faster local mod add](assets/faster_local_mods_add.png)
+</figure>
+
+Cuando lo tengamos añadido debemos ir a Deployment y deploy all.
+
