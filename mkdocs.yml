@@ -55,6 +55,7 @@ nav:
  - servicios.md
  - mod_preset_maker.md
  - persistencia_faster.md
+ - binarizar_configs.md
 
 
 markdown_extensions:
