@@ -4,6 +4,10 @@
 
     Hacer un backup en caso de actualizar, y que sea descriptivo por favor. En mi caso suelo poner una carpeta en el escritorio llamada Backup día-mes-año NombreMods
 
+!!! warning "¡ATENCIÓN!"
+
+    Si el mod está siendo usado por la academia, pararla. (Y no olvidarse de volverla a arrancar.)
+
 Una tarea común de GOP es actualizar/instalar algún mod.
 
 ## Desde workshop
