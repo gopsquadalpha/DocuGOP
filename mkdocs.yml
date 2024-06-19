@@ -46,8 +46,10 @@ extra:
 
 nav:
  - index.md
+ - partidas.md
  - arrancar_partida.md
  - terminar_partida.md
+ - foro.md
  - reglas.md
  - actualizar_mod.md
  - modificar_pbo.md

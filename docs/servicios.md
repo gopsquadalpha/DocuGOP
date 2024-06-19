@@ -1,13 +1,33 @@
 # Servicios (Academia, OCAP, etc)
 
-La academia, el ts, el ocap y otras cosas más el arranque y parada se regulan mediante servicios. El programa FireDaemon nos permitirá gestionarlos.
+La academia, el ts, el ocap y otras cosas más el arranque y parada se regulan mediante servicios de windows.
 
 <figure markdown>
-  ![Firedaemon](assets/firedaemon.png)
-  <figcaption>Pantalla principal de FireDaemon</figcaption>
+  ![WindowsServices](assets/windows_services.png)
+  <figcaption>Pantalla principal de Servicios de Windows</figcaption>
 </figure>
 
-Desde aquí de forma intuitiva podemos parar la academia, lanzarla, etc.
+Desde aquí de forma intuitiva podemos parar todos los servicios web que tenemos cargados desde Caddy. Entre ellos tenemos Academia, Misiones (web para subir partidas directamente a la carpeta de Mpmissions), OCAP, graficas o el propio servicio web.
+
+### Archivos .bat para la gestion de servicios
+
+Para facilitar la parada y arranque de los servicios principales que debemos de gestionar en una partida, se han facilitado en el escritorio, los accesos directos a una serie de archivos .BAT que arrancan o parar dichos servicios.
+
+<figure markdown>
+  ![batServices](assets/batServices.png)
+  <figcaption>Acceso rapido a bat de servicios</figcaption>
+</figure>
+
+```
+#Ejemplo de codigo de arranque de 0WEB
+
+@echo off
+echo Levantando repositorio...
+net start 0WEB
+echo Repositorio levantado
+echo Presione una tecla para cerrar la ventana...
+pause >nul
+```
 
 # Montar un servicio (créditos: Napster)
 
@@ -67,3 +87,10 @@ pasa a ser
 
 7. Una vez más, testea lanzando el servicio para ver que te funciona todo.
 8. Si ves que funciona todo bien, puedes borrar el perfil del FASTER.
+
+@echo off
+echo Levantando repositorio...
+net start 0WEB
+echo Repositorio levantado
+echo Presione una tecla para cerrar la ventana...
+pause >nul

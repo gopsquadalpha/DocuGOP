@@ -1,6 +1,6 @@
 # Acceso al servidor
 
-A fecha del 17/01/2024 el servidor es Windows, para conectarnos se usa el protocolo RDP (remote desktop protocol). Windows ya tiene un cliente para este protocolo, conexión a escritorio remoto.
+Para conectarnos al servidor, utilizaremos "Remote desktop" que tendra nuestro propio ordenador; actualmente a fecha 19/06/2024 el servidor es Windows.
 
 <figure markdown>
   ![Remote Desktop Client](assets/rdp_window.png)
