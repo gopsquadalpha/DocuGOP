@@ -22,3 +22,10 @@ Recomendable si no sabes markdown (muy fácil) leerte cualquier cosa sobre el.
 Escribe:
 
 ```mkdocs build```
+
+
+## Web de acceso
+
+https://gopsquadalpha.github.io/DocuGOP/
+
+[AQUI](https://gopsquadalpha.github.io/DocuGOP/)
