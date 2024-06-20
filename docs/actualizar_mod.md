@@ -66,17 +66,23 @@ Por último desde el **SERVIDOR** nos descargamos el repositorio, como si fuése
 
 Para terminar nos **DESUBSCRIBIMOS** de la workshop del MOD y arrancamos el launcher.
 
-## Borrar un mod
-
-Borramos la carpeta de las rutas D:\Mods y C:\Mods y volvemos a BUILD el repo y descargar el repo.
-
 ## Desde Github/Externo
 
 Algunos mods ([ACE3](https://github.com/acemod/ACE3), [KAT](https://github.com/KAT-Advanced-Medical/KAM)) nos dan la posibilidad de actualizarlos sin necesitar usar Workshop, la principal ventaja es saber la versión que estamos instalando de una manera más fácil, pero no importa mucho.
 
 Hay que seguir los pasos descritos en la sección de Workshop pero obviando !Workshop, etc.
 
-## Peculiaridades de ACE y otros mods
+## Pasarlo al FASTER
+
+Cuando tenemos el mod en D:\mods hace falta decirle al FASTER que existe, para ello nos vamos al faster y a la categoría mods y añadimos un mod local.
+
+<figure markdown>
+![Faster local mod add](assets/faster_local_mods_add.png)
+</figure>
+
+Cuando lo tengamos añadido debemos ir a Deployment y deploy all o lo que se necesite.
+
+### Peculiaridades de ACE y otros mods
 
 ACE y algunos mods se pueden dividir en submods. Por ejemplo en @ACE y @ace_complementos. La carpeta @ACE dentro de ella cuenta con la carpeta *optionals*. En ella nos interesan los siguientes mods opcionales.
 
@@ -94,13 +100,6 @@ Nos metemos en la carpeta addons de cada uno de ellos paso por paso y los copiam
 
 Pasamos build al repo y actualizamos como se ha descrito en las anteriores secciones.
 
-## Pasarlo al FASTER
+## Borrar un mod
 
-Cuando tenemos el mod en D:\mods hace falta decirle al FASTER que existe, para ello nos vamos al faster y a la categoría mods y añadimos un mod local.
-
-<figure markdown>
-![Faster local mod add](assets/faster_local_mods_add.png)
-</figure>
-
-Cuando lo tengamos añadido debemos ir a Deployment y deploy all o lo que se necesite.
-
+Borramos la carpeta de las rutas C:\Mods_server y C:\Mods_repo y volvemos a BUILD el repo y descargar el repo.

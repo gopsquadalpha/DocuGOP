@@ -1,1 +1,1 @@
-# Persistencia del FASTER (WIP)
+# Persistencia del FASTER (GET, ELIMINAR)

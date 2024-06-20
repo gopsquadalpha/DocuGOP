@@ -1,4 +1,4 @@
-# Guidelines respecto al buen uso del servidor y las partidas WIP WIP WIP
+# Buenas praxis para las partidas y durante las partidas
 
 En este apartado se recoge buenas prácticas para el funcionamiento, fluidez de las misiones y el servidor.
 
@@ -12,12 +12,18 @@ Tratar de ser comprensivos dependiendo del número de personas en partida, quita
 
 WIP: Tener en cuenta que el admin al editor le beneficia para arrancar scripts y cosillas que al final mejoran la fluidez de la partida, que es el **OBJETIVO**. 
 
-En caso de que haya OCAP. ASEGURARSE de tirar la partida con los scripts encontrados en [terminar una partida](terminar_partida.md).
+En caso de que haya OCAP. ASEGURARSE de tirar la partida con los scripts encontrados en [Gestion de partidas](partidas.md), seccion de "Finalizar la partida".
 
-## Martes
+## Hora limites los Martes
 
 Los martes se acaba a las 22:30, notificar a HQ a las 22:00 para que vaya plánteandose que a las 22:10 si no hay motivo de peso se vaya a debrief y no alarguemos el operativo.
 
-## Respecto a introducir escuadras de reserva
+## Desbinarizar o Binarizar configs
 
-WIP
+Algunos mods tienen la configuración binarizada.
+
+1. Abrir Arma3Tools (Opción Arma 3 Tools)
+2. Abrir CfgConvert
+3. Apuntar al config.bin que queramos desbinarizar.
+
+Para binarizar se sigue la misma forma pero apuntando al config.cpp

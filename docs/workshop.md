@@ -1,4 +1,4 @@
-# Actualizar ficheros de workshop
+# Actualizar ficheros de workshop (ELIMINAR)
 
 Como posible tarea en caso de jugar multiclanes. Es posible que debamos actualizar algún mod en workshop.
 

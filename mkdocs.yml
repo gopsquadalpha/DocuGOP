@@ -46,18 +46,14 @@ extra:
 
 nav:
  - index.md
+ - Publicacion foro: foro.md
  - partidas.md
- - arrancar_partida.md
- - terminar_partida.md
- - foro.md
- - reglas.md
- - actualizar_mod.md
+ - servicios.md
+ - Mantenimiento mods: actualizar_mod.md
+ - Buena praxis: reglas.md
  - modificar_pbo.md
  - workshop.md
- - servicios.md
- - mod_preset_maker.md
  - persistencia_faster.md
- - binarizar_configs.md
 
 
 markdown_extensions:
